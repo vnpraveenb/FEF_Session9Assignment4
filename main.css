@@ -1,0 +1,11 @@
+  footer {
+      background-color: #222;
+      color: rgb(15, 140, 179);
+      padding: 10px;
+    }
+
+.navbar{
+        background-color: #222;
+        color: white;
+        display:block;
+       }
